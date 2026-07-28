@@ -9,8 +9,15 @@ const DECKS = [
     slides: 12,
   },
   {
+    href: "/skills-guide",
+    eyebrow: "Deck 03",
+    title: "Skills — Beginner's Guide",
+    desc: "What skills are, why they matter, how to build your first one, anatomy of all four layers, 10 starter skills, and the maintenance loop.",
+    slides: 14,
+  },
+  {
     href: "/rules",
-    eyebrow: "Deck 02",
+    eyebrow: "Deck 03",
     title: "4 Rules of Anthropic Engineers",
     desc: "How Anthropic engineers actually work with Claude Code — skills, tools, composition, and the day-30 effect.",
     slides: 12,
